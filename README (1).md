@@ -1,6 +1,6 @@
 # Hello, I'm Khalif Muhammad 👋
 
-Connect with me on [LinkedIn](https://linkedin.com) (https://www.linkedin.com/in/khalif-muhammad/)
+![Linkedin](https://www.linkedin.com/in/khalif-muhammad/)
 
 ![Linkedin](https://www.linkedin.com/in/khalif-muhammad/)
 
