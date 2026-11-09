@@ -6,9 +6,9 @@ Cybersecurity professional with hands-on experience in security operations, thre
 
 ## Skills
 
-| **Skill** | **Associated Project / Hands-On Experience** |
+| **Skill** | **Associated Project** |
 | --- | --- |
-| SIEM Implementation & Log Analysis | **Splunk SOC Investigation & Security Monitoring** — analyzed Windows, firewall, authentication, and Microsoft 365 logs using SPL; built saved searches and dashboards. |
+| SIEM Implementation & Log Analysis | (https://github.com/Khalifmuhammadcyber/splunk-log-analysis) |
 | Cloud Security & Identity Management | **Microsoft Azure Security Lab** — configured Entra ID users and roles, explored least-privilege access, and monitored Azure security events. |
 | Threat Detection & Incident Response | **Microsoft Defender for Endpoint Lab** — investigated a controlled PowerShell attack simulation, alert details, and process activity. |
 | Threat Hunting & KQL | **Microsoft Sentinel & KQL Investigations** — queried Windows Security Events and investigated repeated failed authentication attempts. |
