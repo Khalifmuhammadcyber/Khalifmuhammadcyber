@@ -2,11 +2,7 @@
 
 **Cybersecurity Professional | SOC Analyst | Security Operations & Incident Response**
 
-I'm a cybersecurity professional with a background in project management and hands-on experience in security monitoring, threat detection, incident response, and vulnerability management. I use tools such as **Microsoft Sentinel, Splunk, Microsoft Defender for Endpoint, and Tenable Nessus** to investigate suspicious activity, analyze security logs, and validate remediation efforts.
-
-My project management experience has strengthened my ability to coordinate teams, document findings, prioritize risks, and approach security challenges with a structured, results-driven mindset. I continue to develop my defensive security skills through practical labs, investigations, and documented projects.
-
-## Objective
+I'm a cybersecurity professional with hands-on experience in security monitoring, threat detection, incident response, and vulnerability management. My technical experience includes **Microsoft Sentinel, Splunk, Microsoft Defender for Endpoint, and Tenable Nessus** 
 
 Security+ certified cybersecurity professional pursuing an opportunity in **Security Operations (SOC)** or defensive cybersecurity. Experienced in investigating alerts, analyzing SIEM data, reviewing endpoint activity, and identifying and remediating vulnerabilities through hands-on lab projects. Eager to contribute analytical thinking, technical skills, and a commitment to continuous learning to a security team.
 
@@ -52,20 +48,8 @@ Security+ certified cybersecurity professional pursuing an opportunity in **Secu
 
 ## Projects
 
-> **Add links:** Replace each `YOUR-REPOSITORY-URL` placeholder with the corresponding GitHub repository URL when it is published.
+- **[Splunk SOC Investigation & Security Monitoring](https://github.com/Khalifmuhammadcyber/splunk-log-analysis)** — SPL searches, Windows event investigations, firewall analysis, authentication logs, and security dashboards.
+- **[Microsoft Azure Security & Threat Detection](https://github.com/Khalifmuhammadcyber/Microsoft-Azure-Project)** — Azure IAM, Microsoft Sentinel, KQL, Defender for Endpoint, and incident investigation.
+- **[Nessus Vulnerability Assessment & Splunk Remediation](https://github.com/Khalifmuhammadcyber/Nessus-Vulnerability-Management)** — credentialed scanning, remediation planning, software upgrade, and validation rescan.
+- **[Windows Password Policy GPO — NIST SP 800-53](https://github.com/Khalifmuhammadcyber/Nist-Group-Policy)** — technical security policy configuration and enforcement testing.
 
-- **[Splunk SOC Investigation & Security Monitoring](YOUR-REPOSITORY-URL)** — SPL searches, Windows event investigations, firewall analysis, authentication logs, and security dashboards.
-- **[Microsoft Azure Security & Threat Detection](YOUR-REPOSITORY-URL)** — Azure IAM, Microsoft Sentinel, KQL, Defender for Endpoint, and incident investigation.
-- **[Nessus Vulnerability Assessment & Splunk Remediation](YOUR-REPOSITORY-URL)** — credentialed scanning, remediation planning, software upgrade, and validation rescan.
-- **[Windows Password Policy GPO — NIST SP 800-53](YOUR-REPOSITORY-URL)** — technical security policy configuration and enforcement testing.
-
-## What I'm Learning
-
-- SOC alert investigation and detection engineering fundamentals
-- Advanced SPL and KQL for threat hunting
-- Network analysis and incident response workflows
-- Azure security monitoring and cloud identity protection
-
----
-
-*This profile documents my hands-on cybersecurity learning, investigations, and practical projects.*
