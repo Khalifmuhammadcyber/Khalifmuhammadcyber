@@ -1,7 +1,5 @@
 # Hello, I'm Khalif Muhammad 👋
 
-**Cybersecurity Professional | SOC Analyst | Security Operations & Incident Response**
-
 
 
 Cybersecurity professional with hands-on experience in security operations, threat detection, incident response, and vulnerability management. Skilled in analyzing security events, investigating potential threats, and leveraging SIEM tools to strengthen security defenses. Seeking to contribute my technical expertise, analytical thinking, and problem-solving skills to a security-focused team while continuing to grow and develop as a cybersecurity professional.
