@@ -1,5 +1,8 @@
 # Hello, I'm Khalif Muhammad 👋
 
+![Linkedin](https://www.linkedin.com/in/khalif-muhammad/)
+
+
 **Cybersecurity Professional | SOC Analyst | Security Operations & Incident Response**
 
 I'm a cybersecurity professional with hands-on experience in security monitoring, threat detection, incident response, and vulnerability management. My technical experience includes **Microsoft Sentinel, Splunk, Microsoft Defender for Endpoint, and Tenable Nessus** 
