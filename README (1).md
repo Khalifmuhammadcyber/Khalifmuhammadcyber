@@ -1,5 +1,7 @@
 # Hello, I'm Khalif Muhammad 👋
 
+![Linkedin]([https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white](https://www.linkedin.com/in/khalif-muhammad/)) ![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
 ![Linkedin](https://www.linkedin.com/in/khalif-muhammad/)
 
 
