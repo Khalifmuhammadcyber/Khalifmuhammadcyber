@@ -8,13 +8,10 @@ Cybersecurity professional with hands-on experience in security operations, thre
 
 | **Skill** | **Associated Project** |
 | --- | --- |
-| SIEM Implementation & Log Analysis | (https://github.com/Khalifmuhammadcyber/splunk-log-analysis) |
-| Cloud Security & Identity Management | **Microsoft Azure Security Lab** — configured Entra ID users and roles, explored least-privilege access, and monitored Azure security events. |
-| Threat Detection & Incident Response | **Microsoft Defender for Endpoint Lab** — investigated a controlled PowerShell attack simulation, alert details, and process activity. |
-| Threat Hunting & KQL | **Microsoft Sentinel & KQL Investigations** — queried Windows Security Events and investigated repeated failed authentication attempts. |
-| Vulnerability Management | **Nessus & Splunk Remediation Lab** — upgraded Splunk from 9.1.0.2 to 9.3.14 and validated that 16 previous findings were no longer detected. |
-| Security Configuration & GRC | **Windows Password Policy GPO Lab** — configured password requirements, tested enforcement, and connected technical controls to NIST SP 800-53. |
-| Phishing & SOC Triage | **Security Investigation Labs** — practiced phishing analysis, malicious document triage, brute-force investigations, and incident documentation. |
+| SIEM Implementation & Log Analysis |  **[Splunk SOC Investigation & Security Monitoring](https://github.com/Khalifmuhammadcyber/splunk-log-analysis)**  |
+| Cloud Security & Identity Access Management | **[Microsoft Azure Security & Threat Detection](https://github.com/Khalifmuhammadcyber/Microsoft-Azure-Project)**  |  |
+| Vulnerability Management |**[Nessus Vulnerability Assessment & Splunk Remediation](https://github.com/Khalifmuhammadcyber/Nessus-Vulnerability-Management)**  |
+| Security Configuration & GRC |**[Windows Password Policy GPO — NIST SP 800-53](https://github.com/Khalifmuhammadcyber/Nist-Group-Policy)** |
 
 ## Tools & Technologies
 
