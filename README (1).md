@@ -38,6 +38,7 @@ Cybersecurity professional with hands-on experience in security operations, thre
 ## Certifications
 
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA1D2C?style=for-the-badge) ![PMP](https://img.shields.io/badge/PMI-PMP-005F9E?style=for-the-badge) 
+
 **Currently studying:** Cisco CCNA (in progress)
 
 ## Projects
