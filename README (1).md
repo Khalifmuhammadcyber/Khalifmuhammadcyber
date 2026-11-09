@@ -1,15 +1,11 @@
 # Hello, I'm Khalif Muhammad 👋
 
-![Linkedin](https://www.linkedin.com/in/khalif-muhammad/)
-
-![Linkedin](https://www.linkedin.com/in/khalif-muhammad/)
-
 
 **Cybersecurity Professional | SOC Analyst | Security Operations & Incident Response**
 
 I'm a cybersecurity professional with hands-on experience in security monitoring, threat detection, incident response, and vulnerability management. My technical experience includes **Microsoft Sentinel, Splunk, Microsoft Defender for Endpoint, and Tenable Nessus** 
 
-Security+ certified cybersecurity professional pursuing an opportunity in **Security Operations (SOC)** or defensive cybersecurity. Experienced in investigating alerts, analyzing SIEM data, reviewing endpoint activity, and identifying and remediating vulnerabilities through hands-on lab projects. Eager to contribute analytical thinking, technical skills, and a commitment to continuous learning to a security team.
+Cybersecurity professional with hands-on experience in security operations, threat detection, incident response, and vulnerability management. Skilled in analyzing security events, investigating potential threats, and leveraging SIEM tools to strengthen security defenses. Seeking to contribute my technical expertise, analytical thinking, and problem-solving skills to a security-focused team while continuing to grow and develop as a cybersecurity professional.
 
 ## Skills
 
@@ -47,14 +43,13 @@ Security+ certified cybersecurity professional pursuing an opportunity in **Secu
 
 ## Certifications
 
-![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA1D2C?style=for-the-badge) ![PMP](https://img.shields.io/badge/PMI-PMP-005F9E?style=for-the-badge) ![Microsoft Office Specialist](https://img.shields.io/badge/Microsoft_Office_Specialist-Excel_Associate-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA1D2C?style=for-the-badge) ![PMP](https://img.shields.io/badge/PMI-PMP-005F9E?style=for-the-badge) 
 **Currently studying:** Cisco CCNA (in progress)
 
 ## Projects
 
-- **[Splunk SOC Investigation & Security Monitoring](https://github.com/Khalifmuhammadcyber/splunk-log-analysis)** — SPL searches, Windows event investigations, firewall analysis, authentication logs, and security dashboards.
-- **[Microsoft Azure Security & Threat Detection](https://github.com/Khalifmuhammadcyber/Microsoft-Azure-Project)** — Azure IAM, Microsoft Sentinel, KQL, Defender for Endpoint, and incident investigation.
-- **[Nessus Vulnerability Assessment & Splunk Remediation](https://github.com/Khalifmuhammadcyber/Nessus-Vulnerability-Management)** — credentialed scanning, remediation planning, software upgrade, and validation rescan.
-- **[Windows Password Policy GPO — NIST SP 800-53](https://github.com/Khalifmuhammadcyber/Nist-Group-Policy)** — technical security policy configuration and enforcement testing.
+- **[Splunk SOC Investigation & Security Monitoring](https://github.com/Khalifmuhammadcyber/splunk-log-analysis)** 
+- **[Microsoft Azure Security & Threat Detection](https://github.com/Khalifmuhammadcyber/Microsoft-Azure-Project)** 
+- **[Nessus Vulnerability Assessment & Splunk Remediation](https://github.com/Khalifmuhammadcyber/Nessus-Vulnerability-Management)** 
+- **[Windows Password Policy GPO — NIST SP 800-53](https://github.com/Khalifmuhammadcyber/Nist-Group-Policy)**
 
