@@ -1,0 +1,71 @@
+# Hello, I'm Khalif Muhammad 👋
+
+**Cybersecurity Professional | SOC Analyst | Security Operations & Incident Response**
+
+I'm a cybersecurity professional with a background in project management and hands-on experience in security monitoring, threat detection, incident response, and vulnerability management. I use tools such as **Microsoft Sentinel, Splunk, Microsoft Defender for Endpoint, and Tenable Nessus** to investigate suspicious activity, analyze security logs, and validate remediation efforts.
+
+My project management experience has strengthened my ability to coordinate teams, document findings, prioritize risks, and approach security challenges with a structured, results-driven mindset. I continue to develop my defensive security skills through practical labs, investigations, and documented projects.
+
+## Objective
+
+Security+ certified cybersecurity professional pursuing an opportunity in **Security Operations (SOC)** or defensive cybersecurity. Experienced in investigating alerts, analyzing SIEM data, reviewing endpoint activity, and identifying and remediating vulnerabilities through hands-on lab projects. Eager to contribute analytical thinking, technical skills, and a commitment to continuous learning to a security team.
+
+## Skills
+
+| **Skill** | **Associated Project / Hands-On Experience** |
+| --- | --- |
+| SIEM Implementation & Log Analysis | **Splunk SOC Investigation & Security Monitoring** — analyzed Windows, firewall, authentication, and Microsoft 365 logs using SPL; built saved searches and dashboards. |
+| Cloud Security & Identity Management | **Microsoft Azure Security Lab** — configured Entra ID users and roles, explored least-privilege access, and monitored Azure security events. |
+| Threat Detection & Incident Response | **Microsoft Defender for Endpoint Lab** — investigated a controlled PowerShell attack simulation, alert details, and process activity. |
+| Threat Hunting & KQL | **Microsoft Sentinel & KQL Investigations** — queried Windows Security Events and investigated repeated failed authentication attempts. |
+| Vulnerability Management | **Nessus & Splunk Remediation Lab** — upgraded Splunk from 9.1.0.2 to 9.3.14 and validated that 16 previous findings were no longer detected. |
+| Security Configuration & GRC | **Windows Password Policy GPO Lab** — configured password requirements, tested enforcement, and connected technical controls to NIST SP 800-53. |
+| Phishing & SOC Triage | **Security Investigation Labs** — practiced phishing analysis, malicious document triage, brute-force investigations, and incident documentation. |
+
+## Tools & Technologies
+
+### Cloud & Identity
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### Endpoint & Vulnerability Management
+
+![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender_for_Endpoint-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white) ![Tenable Nessus](https://img.shields.io/badge/Tenable_Nessus-00A5B5?style=for-the-badge) 
+
+### SIEM & Security Monitoring
+
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+
+### Networking & Operating Systems
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-4479A1?style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Frameworks & Query Languages
+
+![NIST CSF](https://img.shields.io/badge/NIST_CSF-4D4D4D?style=for-the-badge) ![NIST 800-53](https://img.shields.io/badge/NIST_SP_800--53-4D4D4D?style=for-the-badge) ![KQL](https://img.shields.io/badge/KQL-0078D4?style=for-the-badge) ![SPL](https://img.shields.io/badge/Splunk_SPL-000000?style=for-the-badge)
+
+## Certifications
+
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA1D2C?style=for-the-badge) ![PMP](https://img.shields.io/badge/PMI-PMP-005F9E?style=for-the-badge) ![Microsoft Office Specialist](https://img.shields.io/badge/Microsoft_Office_Specialist-Excel_Associate-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+**Currently studying:** Cisco CCNA (in progress)
+
+## Projects
+
+> **Add links:** Replace each `YOUR-REPOSITORY-URL` placeholder with the corresponding GitHub repository URL when it is published.
+
+- **[Splunk SOC Investigation & Security Monitoring](YOUR-REPOSITORY-URL)** — SPL searches, Windows event investigations, firewall analysis, authentication logs, and security dashboards.
+- **[Microsoft Azure Security & Threat Detection](YOUR-REPOSITORY-URL)** — Azure IAM, Microsoft Sentinel, KQL, Defender for Endpoint, and incident investigation.
+- **[Nessus Vulnerability Assessment & Splunk Remediation](YOUR-REPOSITORY-URL)** — credentialed scanning, remediation planning, software upgrade, and validation rescan.
+- **[Windows Password Policy GPO — NIST SP 800-53](YOUR-REPOSITORY-URL)** — technical security policy configuration and enforcement testing.
+
+## What I'm Learning
+
+- SOC alert investigation and detection engineering fundamentals
+- Advanced SPL and KQL for threat hunting
+- Network analysis and incident response workflows
+- Azure security monitoring and cloud identity protection
+
+---
+
+*This profile documents my hands-on cybersecurity learning, investigations, and practical projects.*
